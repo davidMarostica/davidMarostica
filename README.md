@@ -65,8 +65,8 @@ Atualmente curso **Tecnologia da Informação pela UFBRA** e me especializo em *
 
 ## 🎓 Formação Acadêmica
 
-- **UFBRA** – Curso Superior de Tecnologia em TI (2023–2026)
-- **Gran Faculdade** – Bacharelado em TI (2024–2029)
+- **UFBRA** – Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (2023–2026)
+- **Gran Faculdade** – Bacharelado em Engenharia de Software (2024–2029)
 - **Fundação Bradesco** – Cursos Profissionalizantes em Programação (2023–2024)
 
 ---
