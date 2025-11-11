@@ -5,7 +5,7 @@
 📍 São Paulo e Região, Brasil  
 📧 davidmarosticasilvasilva25@gmail.com  
 📱 (11) 99121-5251  
-💼 [LinkedIn](https://www.linkedin.com/in/davidaparecido-da-silva)  
+💼 [LinkedIn](https://www.linkedin.com/in/david-aparecido-da-silva)  
 💻 [GitHub](https://github.com/davidMarostica)
 
 ---
@@ -120,7 +120,7 @@ Estou sempre aberto a novas oportunidades, projetos desafiadores e conexões na 
 
 📧 **E-mail:** davidmarosticasilvasilva25@gmail.com  
 📱 **Celular:** (11) 99121-5251  
-💼 **LinkedIn:** [linkedin.com/in/davidaparecido-da-silva](https://www.linkedin.com/in/davidaparecido-da-silva)  
+💼 **LinkedIn:** [linkedin.com/in/david-aparecido-da-silva](https://www.linkedin.com/in/david-aparecido-da-silva)  
 💻 **GitHub:** [github.com/davidMarostica](https://github.com/davidMarostica)
 
 ---
