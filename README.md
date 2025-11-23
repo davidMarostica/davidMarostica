@@ -26,7 +26,6 @@ Atualmente curso **Tecnologia da Informação pela UFBRA** e me especializo em *
 ## 🛠️ Tecnologias & Habilidades
 
 ### 🔹 **Back-end**
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,7 +33,6 @@ Atualmente curso **Tecnologia da Informação pela UFBRA** e me especializo em *
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🔹 **Front-end**
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,13 +40,11 @@ Atualmente curso **Tecnologia da Informação pela UFBRA** e me especializo em *
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🔹 **Banco de Dados**
-
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔹 **Ferramentas & DevOps**
-
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -56,10 +52,22 @@ Atualmente curso **Tecnologia da Informação pela UFBRA** e me especializo em *
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ### 🔹 **Cloud & Infraestrutura**
-
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidMarostica&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidMarostica&layout=compact&theme=radical&hide_title=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=davidMarostica&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
@@ -74,32 +82,29 @@ Atualmente curso **Tecnologia da Informação pela UFBRA** e me especializo em *
 ## 📂 Projetos em Destaque
 
 ### 🔗 **Sistema de Gestão Completo**
-
 Sistema full-stack para gestão de processos empresariais  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)  
-**Repositório:** [link aqui]
+**Repositório:** [Em breve]
 
 ### 🔗 **API REST com Arquitetura Hexagonal**
-
 API desenvolvida seguindo princípios de arquitetura limpa  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)  
-**Repositório:** [link aqui]
+**Repositório:** [Em breve]
 
 ### 🔗 **Análise de Dados com Python**
-
 Projeto de análise e visualização de datasets complexos  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
-**Repositório:** [link aqui]
+**Repositório:** [Em breve]
 
 ---
 
@@ -127,7 +132,8 @@ Estou sempre aberto a novas oportunidades, projetos desafiadores e conexões na 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidMarostica&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidMarostica&layout=compact&theme=radical)
+![Visitors](https://komarev.com/ghpvc/?username=davidMarostica&color=blue&style=flat-square)
+
+**Obrigado pela visita!** 😊
 
 </div>
