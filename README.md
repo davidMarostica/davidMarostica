@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **Engenheiro de Software** em transição de carreira, trazendo para a tecnologia mais de **10 anos de experiência** em ambientes de alta performance. Minha trajetória anterior me equipou com competências valiosas como:
+ **Engenheiro de Software** em formação, trazendo para a tecnologia mais de **10 anos de experiência** em ambientes de alta performance. Minha trajetória anterior me equipou com competências valiosas como:
 
 🎯 **Liderança de equipe** e gestão de processos  
 🎯 **Resolução ágil de problemas** complexos  
