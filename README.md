@@ -76,8 +76,13 @@ Atualmente curso **Tecnologia da Informação pela UFBRA** e me especializo em *
 - **UFBRA** – Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (2023–2026)
 - **Gran Faculdade** – Bacharelado em Engenharia de Software (2024–2029)
 - **Fundação Bradesco** – Cursos Profissionalizantes em Programação (2023–2024)
+- **Generation Brasil** – Bootcamp Fullstack JavaScript (2025)
 
----
+- **Udemy**  
+  - Formação Fullstack Web Developer (HTML, CSS, JavaScript, React, Node.js, MongoDB)  
+  - Formação em Data Science com Python (Pandas, NumPy, Scikit-Learn, Machine Learning)  
+  - Curso de Arquitetura Hexagonal e Clean Code em Java  
+
 
 ## 📂 Projetos em Destaque
 
