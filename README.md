@@ -78,11 +78,21 @@ Atualmente curso **Tecnologia da Informação pela UFBRA** e me especializo em *
 - **Fundação Bradesco** – Cursos Profissionalizantes em Programação (2023–2024)
 - **Generation Brasil** – Bootcamp Fullstack JavaScript (2025)
 
+### 📚 Cursos e Bootcamps
+- **DIO (Digital Innovation One)**  
+  - Bootcamp Santander Fullstack  
+  - Bootcamp CI&T Java com AWS  
+  - Bootcamp Caixa – Inteligência Artificial  
+  - Diversos cursos em Java,JavaScripty, Cloud e Front-end  
+
 - **Udemy**  
   - Formação Fullstack Web Developer (HTML, CSS, JavaScript, React, Node.js, MongoDB)  
   - Formação em Data Science com Python (Pandas, NumPy, Scikit-Learn, Machine Learning)  
   - Curso de Arquitetura Hexagonal e Clean Code em Java  
 
+---
+
+🌱 **Atualmente estudando:**  
 
 ## 📂 Projetos em Destaque
 
