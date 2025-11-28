@@ -83,7 +83,7 @@ Atualmente curso **Tecnologia da Informação pela UFBRA** e me especializo em *
   - Bootcamp Santander Fullstack  
   - Bootcamp CI&T Java com AWS  
   - Bootcamp Caixa – Inteligência Artificial  
-  - Diversos cursos em Java,JavaScripty, Cloud e Front-end  
+  - Diversos cursos em Java, JavaScripty, Cloud e Front-end  
 
 - **Udemy**  
   - Formação Fullstack Web Developer (HTML, CSS, JavaScript, React, Node.js, MongoDB)  
