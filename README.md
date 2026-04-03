@@ -41,7 +41,6 @@ Engenheiro de Software em formação, com mais de **10 anos de experiência** em
 ## 🎓 Formação
 
 - **Análise e Desenvolvimento de Sistemas** – UFBRA (2023–2026)
-- **Engenharia de Software** – Gran Faculdade (2024–2029)
 - **Bootcamp Fullstack JavaScript** – Generation Brasil (2025)
 
 ---
