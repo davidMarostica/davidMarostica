@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre Mim
 
-Engenheiro de Software com mais de **20 anos de experiência** em ambientes de produtivo. Essa bagagem me trouxe disciplina, resolução rápida de problemas e trabalho em equipe — qualidades que agora aplico ao desenvolvimento de software.
+Engenheiro de Software com mais de **20 anos de experiência** em ambientes de produtição. Essa bagagem me trouxe disciplina, resolução rápida de problemas e trabalho em equipe — qualidades que agora aplico ao desenvolvimento de software.
 
 🎓 **Formação:** Análise e Desenvolvimento de Sistemas – Centro Universitário UFBRA ✅ **CONCLUÍDO**
 
