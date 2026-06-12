@@ -12,9 +12,13 @@
 
 ## 🚀 Sobre Mim
 
-Engenheiro de Software em formação, com mais de **10 anos de experiência** em ambientes de alta performance. Atualmente curso **Análise e Desenvolvimento de Sistemas pela UFBRA** e me especializo em **Java, C#, Python e Full Stack JavaScript**.
+Engenheiro de Software com mais de **20 anos de experiência** em ambientes de produtivo. Essa bagagem me trouxe disciplina, resolução rápida de problemas e trabalho em equipe — qualidades que agora aplico ao desenvolvimento de software.
 
----
+🎓 **Formação:** Análise e Desenvolvimento de Sistemas – Centro Universitário UFBRA ✅ **CONCLUÍDO**
+
+💻 **Especializações:** Java | C# | Rust | Python | Full Stack JavaScript
+
+🚀 **Objetivo:** Unir minha experiência operacional com o desenvolvimento de software para criar soluções robustas, escaláveis e de alto desempenho.
 
 ## 🛠️ Tecnologias
 
